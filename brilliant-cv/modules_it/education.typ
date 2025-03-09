@@ -9,25 +9,25 @@
 
 
 #cvEntry(
-  title: [Laurea in informatica],
-  society: [Università della California, Los Angeles],
-  date: [2018 - 2020],
-  location: [USA],
-  logo: image("../src/logos/ucla.png"),
+  title: [Università degli Studi di Padova],
+  society: [Laurea in Informatica],
+  date: [2022 - Presente],
+  location: [Padova (PD), Italia],
+  logo: image("../src/logos/logo_unipd.png"),
   description: list(
-    [Tesi: Esplorazione di algoritmi di apprendimento automatico per prevedere i prezzi delle azioni: uno studio comparativo di modelli di regressione e serie temporali],
-    [Corsi: Sistemi di database #hBar() Reti di calcolatori #hBar() Ingegneria del software #hBar() Intelligenza artificiale],
+    [],
+    [Corsi:],
   ),
 )
 
 #cvEntry(
-  title: [],
-  society: [Università della California, Los Angeles],
-  date: [2018 - 2020],
-  location: [USA],
-  logo: image("../src/logos/ucla.png"),
+  title: [IIS Levi-Ponti],
+  society: [Diploma di maturità indirizzo Informatica e Telecomunicazioni],
+  date: [2017 - 2022],
+  location: [Mirano(VE), Italia],
+  logo: image("../src/logos/logo_levi.png"),
   description: list(
-    [Tesi: Previsione del tasso di abbandono dei clienti nel settore delle telecomunicazioni mediante algoritmi di apprendimento automatico e analisi delle reti],
-    [Corsi: Sistemi e tecnologie basati su Big Data #hBar() Data Mining #hBar() Natural language processing],
+    [],
+    [],
   ),
 )
