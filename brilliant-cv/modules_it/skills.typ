@@ -8,7 +8,7 @@
 
 #cvSkill(
   type: [Lingue],
-  info: [Inglese #hBar() Francese #hBar() Cinese],
+  info: [Inglese],
 )
 
 #cvSkill(
@@ -18,5 +18,5 @@
 
 #cvSkill(
   type: [Interessi personali],
-  info: [Nuoto #hBar() Cucina #hBar() Lettura],
+  info: [],
 )

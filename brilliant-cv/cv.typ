@@ -24,4 +24,5 @@
 ))
 
 \
+#set align(center)
 _Autorizzo il trattamento dei dati personali contenuti nel mio curriculum vitae in base al D.Lgs. 196/2003 e al Regolamento UE 2016/679_.
