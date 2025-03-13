@@ -9,25 +9,23 @@
 
 
 #cvEntry(
-  title: [Università degli Studi di Padova],
-  society: [Laurea in Informatica],
-  date: [2022 - Presente],
+  title: [Laurea in Informatica],
+  society: [Università degli Studi di Padova],
+  date: [2022 - Presente (inizio stage previsto a Settembre 2025)],
   location: [Padova (PD), Italia],
   logo: image("../src/logos/logo_unipd.png"),
   description: list(
-    [],
-    [Corsi:],
+    
   ),
 )
 
 #cvEntry(
-  title: [IIS Levi-Ponti],
-  society: [Diploma di maturità indirizzo Informatica e Telecomunicazioni],
+  title: [Diploma di maturità in Informatica],
+  society: [IIS Levi-Ponti],
   date: [2017 - 2022],
   location: [Mirano(VE), Italia],
   logo: image("../src/logos/logo_levi.png"),
   description: list(
-    [],
-    [],
+    [Voto di maturità: 94/100],
   ),
 )

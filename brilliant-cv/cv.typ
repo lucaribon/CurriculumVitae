@@ -18,8 +18,8 @@
   "education",
   "professional",
   "projects",
-  // "certificates",
-  "publications",
+  "certificates",
+  // "publications",
   "skills",
 ))
 

@@ -6,12 +6,12 @@
 
 #cvSection("Pubblicazioni")
 
-#cvPublication(
-  bib: bibliography("../src/publications.bib"),
-  keyList: (
-    "smith2020",
-    "jones2021",
-    "wilson2022",
-  ),
-  refStyle: "apa",
-)
+// #cvPublication(
+//   bib: bibliography("../src/publications.bib"),
+//   keyList: (
+//     "smith2020",
+//     "jones2021",
+//     "wilson2022",
+//   ),
+//   refStyle: "apa",
+// )

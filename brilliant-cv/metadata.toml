@@ -7,7 +7,7 @@ language = "it"
 [layout]
     # Optional values: skyblue, red, nephritis, concrete, darknight
     # You can also use a custom color by hex code i.e. "#1E90FF"
-    awesome_color = "concrete"
+    awesome_color = "darknight"
 
     # Skips are for controlling the spacing between sections and entries
     before_section_skip = "1pt"
@@ -34,7 +34,7 @@ language = "it"
 
     [layout.entry]
         # Decide if you want to put your company in bold or your position in bold
-        display_entry_society_first = true
+        display_entry_society_first = false
 
         # Decide if you want to display organisation logo or not
         display_logo = true
@@ -55,19 +55,24 @@ language = "it"
     # The custom value is for any additional information you want to add, name it as custom-1, custom-2, etc.
     [personal.info]
         github = "lucaribon"
+        linkedin = "luca-ribon"
         phone = "+39 328 675 8617"
         email = "lucaribon0203@gmail.com"
-        linkedin = "luca-ribon"
         # gitlab = "yunanwg"
         # homepage = "jd.me.org"
         # orcid = "0000-0000-0000-0000"
         # researchgate = "John-Doe"
         # extraInfo = "I am a cool kid"
-        # [personal.info.custom-1]
+        [personal.info.custom-1]
             # image = "" # Example: image("./path/to/image.png")
-            # awesomeIcon = "graduation-cap" # Example: "graduation-cap" see https://typst.app/universe/package/fontawesome/
-            # text = "PhD"
+            awesomeIcon = "calendar" # Example: "graduation-cap" see https://typst.app/universe/package/fontawesome/
+            text = "19/11/2003"
             # link = "https://www.example.com"
+        [personal.info.custom-2]
+            # image = "" # Example: image("./path/to/image.png")
+            awesomeIcon = "location-dot" # Example: "graduation-cap" see https://typst.app/universe/package/fontawesome/
+            text = "Santa Maria di Sala (VE)"
+            # link = "https://www.example.com"    
 
 # add a new section if you want to include the language of your choice
 # i.e. [[lang.ru]]
@@ -78,7 +83,7 @@ language = "it"
     letter_footer = "Cover letter"
 
 [lang.it]
-    header_quote = "Studente del corso di laurea in Informatica presso l'Università di Padova"
+    header_quote = "Studente del corso di laurea in Informatica presso l'Università di Padova, appassionato in particolare allo svilupppo software backend.\n Da quando mi sono interessato all'informatica sono sempre stato incuriosito dal funzionamento dei prodotti software utilizzavo, per questo cerco spesso di approfondire gli argomenti che riguardano questo settore, sia nell'ambiente accademico che nel tempo libero."
     cv_footer = "Curriculum vitae"
     letter_footer = "Lettera di presentazione"
 

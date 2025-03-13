@@ -8,19 +8,13 @@
 #cvSection("Certificazioni")
 
 #cvHonor(
-  date: [2022],
-  title: [AWS Certified Security],
-  issuer: [Amazon Web Services (AWS)],
+  date: [2021],
+  title: [CCNAv7: Introduction to Networks],
+  issuer: [Cisco],
 )
 
 #cvHonor(
-  date: [2017],
-  title: [Applied Data Science with Python],
-  issuer: [Coursera],
-)
-
-#cvHonor(
-  date: [],
-  title: [Fondamenti di SQL],
-  issuer: [Datacamp],
+  date: [2021],
+  title: [NDG Linux Essentials],
+  issuer: [NDG through Cisco Networking Academy],
 )

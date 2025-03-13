@@ -8,15 +8,13 @@
 
 #cvSkill(
   type: [Lingue],
-  info: [Inglese],
+  info: list(
+    [Italiano: madrelingua],
+    [Inglese: B2],
+  ),
 )
 
 #cvSkill(
   type: [Tecnologie],
-  info: [Tableau #hBar() Python (Pandas/Numpy) #hBar() PostgreSQL],
-)
-
-#cvSkill(
-  type: [Interessi personali],
-  info: [],
+  info: [C++ #hBar() Java #hBar() JavaScript #hBar() PHP #hBar() Python #hBar() SQL #hBar() NoSQL #hBar() Git #hBar() Docker #hBar() Linux],
 )
