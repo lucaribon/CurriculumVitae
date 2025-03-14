@@ -18,3 +18,8 @@
   type: [Tecnologie],
   info: [C++ #hBar() Java #hBar() JavaScript #hBar() PHP #hBar() Python #hBar() SQL #hBar() NoSQL #hBar() Git #hBar() Docker #hBar() Linux],
 )
+
+#cvSkill(
+  type: [Altri interessi],
+  info: [Self hosting #hBar() Automotive #hBar() Finanza personale],
+)

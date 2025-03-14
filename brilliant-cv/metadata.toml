@@ -83,7 +83,7 @@ language = "it"
     letter_footer = "Cover letter"
 
 [lang.it]
-    header_quote = "Studente del corso di laurea in Informatica presso l'Università di Padova, appassionato in particolare allo svilupppo software backend.\n Da quando mi sono interessato all'informatica sono sempre stato incuriosito dal funzionamento dei prodotti software utilizzavo, per questo cerco spesso di approfondire gli argomenti che riguardano questo settore, sia nell'ambiente accademico che nel tempo libero."
+    header_quote = "Studente del corso di laurea in Informatica presso l'Università di Padova, appassionato in particolare allo sviluppo software backend.\n Da quando mi sono interessato all'informatica sono sempre stato incuriosito dal funzionamento dei prodotti software utilizzavo, per questo cerco spesso di approfondire gli argomenti che riguardano questo settore, sia nell'ambiente accademico che nel tempo libero."
     cv_footer = "Curriculum vitae"
     letter_footer = "Lettera di presentazione"
 

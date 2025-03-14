@@ -13,7 +13,7 @@
   society: [Università degli Studi di Padova],
   date: [2022 - Presente (inizio stage previsto a Settembre 2025)],
   location: [Padova (PD), Italia],
-  logo: image("../src/logos/logo_unipd.png"),
+  logo: image("../src/logos/unipd_logo.png"),
   description: list(
     
   ),
@@ -24,7 +24,7 @@
   society: [IIS Levi-Ponti],
   date: [2017 - 2022],
   location: [Mirano(VE), Italia],
-  logo: image("../src/logos/logo_levi.png"),
+  logo: image("../src/logos/levi_logo.png"),
   description: list(
     [Voto di maturità: 94/100],
   ),
