@@ -18,8 +18,22 @@
     [Implementazione del backend #hBar() *PHP*],
     [Implementazione delle *API* del *database* #hBar() *PHP*],
     [Implementazione della logica del frontend #hBar() *JavaScript*],
-    [Implementazione di accorgimenti di accessibilità #hBar() *HTML*, *CSS* e *JavaScript*],
+    [Implementazione di accorgimenti per l'accessibilità #hBar() *HTML*, *CSS*, *JavaScript*],
     [Amministrazione dell'ambiente di sviluppo #hBar() *Docker*],
     [Stesura della relazione #hBar() *Typst*],
   ),
+)
+
+#cvEntry(
+  title: [SupplAI],
+  society: [#link("https://github.com/CodeHex16")[#underline("GitHub")]],
+  date: [Ottobre 2024 - Presente],
+  location: [Padova (PD), Italia],
+  logo: image("../src/logos/supplai_logo.jpg"),
+  description: list(
+    [Stesura della documentazione #hBar() *Typst*],
+    [Progettazione e implementazione del Proof of Concept #hBar() *Python*, *FastAPI*, *LangChain*, *MongoDB*],
+    [Analisi per la scelta dello stack tecnologico #hBar() *Python*, *MongoDB*, *PostgreSQL*],
+    [Miglioramenti alla pagina web del progetto #hBar() *HTML*, *CSS*, *JavaScript*],
+    ),
 )

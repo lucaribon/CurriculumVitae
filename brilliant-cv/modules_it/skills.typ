@@ -2,9 +2,22 @@
 #import "@preview/brilliant-cv:2.0.5": cvSection, cvSkill, hBar
 #let metadata = toml("../metadata.toml")
 #let cvSection = cvSection.with(metadata: metadata)
-
+#set list(indent: 0.0cm)
 
 #cvSection("Competenze")
+
+#cvSkill(
+  type: [Tecnologie],
+  info: list(
+    [*Linguaggi di programmazione*: C++ #hBar() Java #hBar() JavaScript #hBar() Python #hBar() PHP],
+    [*Linguaggi di markup*: HTML #hBar() CSS #hBar() Markdown],
+    [*Gestione dei dati*: SQL #hBar() NoSQL],
+    [*Strumenti di sviluppo*: Git #hBar() Docker],
+    [*Sistemi operativi*: Linux #hBar() Windows],
+  ),
+)
+
+#v(3pt)
 
 #cvSkill(
   type: [Lingue],
@@ -14,10 +27,7 @@
   ),
 )
 
-#cvSkill(
-  type: [Tecnologie],
-  info: [C++ #hBar() Java #hBar() JavaScript #hBar() PHP #hBar() Python #hBar() SQL #hBar() NoSQL #hBar() Git #hBar() Docker #hBar() Linux],
-)
+#v(3pt)
 
 #cvSkill(
   type: [Altri interessi],

@@ -8,6 +8,7 @@
     }
   }
 }
+#set list(indent: 0.4cm)
 
 
 #show: cv.with(

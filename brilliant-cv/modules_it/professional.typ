@@ -7,14 +7,14 @@
 
 #cvSection("Esperienze di lavoro")
 
-#cvEntry(
-  title: [Fattorino],
-  society: [Alba Chiara SNC],
-  logo: image("../src/logos/crazy-pizza_logo.jpg"),
-  date: [2023 - Presente],
-  location: [Santa Maria di Sala (VE), Italia],
-  description: list(),
-)
+// #cvEntry(
+//   title: [Fattorino],
+//   society: [Alba Chiara SNC],
+//   logo: image("../src/logos/crazy-pizza_logo.jpg"),
+//   date: [2023 - Presente],
+//   location: [Santa Maria di Sala (VE), Italia],
+//   description: list(),
+// )
 
 #cvEntry(
   title: [IT Support and Customer Assistant],
