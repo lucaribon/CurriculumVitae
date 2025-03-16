@@ -11,7 +11,7 @@
   info: list(
     [*Linguaggi di programmazione*: C++ #hBar() Java #hBar() JavaScript #hBar() Python #hBar() PHP],
     [*Linguaggi di markup*: HTML #hBar() CSS #hBar() Markdown],
-    [*Gestione dei dati*: SQL #hBar() NoSQL],
+    [*Gestione di dati*: SQL #hBar() NoSQL],
     [*Strumenti di sviluppo*: Git #hBar() Docker],
     [*Sistemi operativi*: Linux #hBar() Windows],
   ),

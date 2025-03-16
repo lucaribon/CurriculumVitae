@@ -13,7 +13,11 @@
   date: [Dicembre 2024 - Febbraio 2025],
   location: [Padova (PD), Italia],
   logo: image("../src/logos/bookoverflow_logo.svg"),
-  description: list(
+  description: [
+    Progetto di gruppo svolto per il corso di Tecnologie Web dell'Università degli Studi di Padova; il prodotto finale consiste in una webapp che permette agli utenti di condividere e scambiare libri tra loro; è stato integrato anche una funzione di matching tra libri offerti e libri desiderati dagli utenti per facilitare la ricerca degli utenti con cui svolgere gli scambi. \
+    L'interfaccia rispetta le linee guida WCAG 2.1 al livello AAA.
+
+    #list(
     [Progettazione del database #hBar() *MySQL*],
     [Implementazione del backend #hBar() *PHP*],
     [Implementazione delle *API* del *database* #hBar() *PHP*],
@@ -21,7 +25,7 @@
     [Implementazione di accorgimenti per l'accessibilità #hBar() *HTML*, *CSS*, *JavaScript*],
     [Amministrazione dell'ambiente di sviluppo #hBar() *Docker*],
     [Stesura della relazione #hBar() *Typst*],
-  ),
+  )],
 )
 
 #cvEntry(
@@ -30,10 +34,29 @@
   date: [Ottobre 2024 - Presente],
   location: [Padova (PD), Italia],
   logo: image("../src/logos/supplai_logo.jpg"),
-  description: list(
-    [Stesura della documentazione #hBar() *Typst*],
-    [Progettazione e implementazione del Proof of Concept #hBar() *Python*, *FastAPI*, *LangChain*, *MongoDB*],
-    [Analisi per la scelta dello stack tecnologico #hBar() *Python*, *MongoDB*, *PostgreSQL*],
-    [Miglioramenti alla pagina web del progetto #hBar() *HTML*, *CSS*, *JavaScript*],
+  description: [
+    Progetto di gruppo svolto per il corso di Ingegneria del Software dell'Università degli Studi di Padova; il prodotto finale consiste in una webapp che delle aziende fornitrici di prodotti o servizi mettono a disposizione dei propri clienti per permettergli di interagire con un chatbot; il chatbot è basato su un Large Language Model che usa come contesto dei documenti aziendali caricati dal fornitore e delle FAQ preimpostate dal fornitore.
+    È prevista anche un'interfaccia di amministrazione per il fornitore dove può gestire documenti aziendali, FAQ e utenti.
+
+    Contributi personali al progetto:
+    #list(
+      [Stesura della documentazione #hBar() *Typst*],
+      [Progettazione e implementazione del Proof of Concept #hBar() *Python*, *FastAPI*, *MongoDB*],
+      [Analisi per la scelta dello stack tecnologico #hBar() *Python*, *MongoDB*, *PostgreSQL*],
+      [Miglioramenti alla pagina web del progetto #hBar() *HTML*, *CSS*, *JavaScript*],
+    )
+  ],
+)
+
+#place(
+  bottom,
+  block(
+    width: 100%,
+    align(
+      center,
+      text(size: 8pt)[
+        _Autorizzo il trattamento dei dati personali contenuti nel mio curriculum vitae in base al D.Lgs. 196/2003 e al Regolamento UE 2016/679_.
+      ],
     ),
+  ),
 )
