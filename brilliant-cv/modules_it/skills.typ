@@ -9,11 +9,11 @@
 #cvSkill(
   type: [Tecnologie],
   info: list(
-    [*Linguaggi di programmazione*: C++ #hBar() Java #hBar() JavaScript #hBar() Python #hBar() PHP],
-    [*Linguaggi di markup*: HTML #hBar() CSS #hBar() Markdown],
-    [*Gestione di dati*: SQL #hBar() NoSQL],
-    [*Strumenti di sviluppo*: Git #hBar() Docker],
-    [*Sistemi operativi*: Linux #hBar() Windows],
+    [*Linguaggi di programmazione*: #h(3pt) C++ #hBar() Java #hBar() JavaScript #hBar() Python #hBar() PHP],
+    [*Gestione di dati*: #h(3pt) SQL #hBar() NoSQL],
+    [*Linguaggi di markup*: #h(3pt) HTML #hBar() CSS #hBar() Typst],
+    [*Strumenti di sviluppo*: #h(3pt) Git #hBar() Docker],
+    [*Sistemi operativi*: #h(3pt) Linux #hBar() Windows],
   ),
 )
 
@@ -22,8 +22,8 @@
 #cvSkill(
   type: [Lingue],
   info: list(
-    [Italiano: madrelingua],
-    [Inglese: B2],
+    [*Italiano*: madrelingua],
+    [*Inglese*: B2],
   ),
 )
 

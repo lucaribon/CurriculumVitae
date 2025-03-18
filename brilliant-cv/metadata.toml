@@ -10,18 +10,18 @@ language = "it"
     awesome_color = "darknight"
 
     # Skips are for controlling the spacing between sections and entries
-    before_section_skip = "1pt"
-    before_entry_skip = "1pt"
-    before_entry_description_skip = "1pt"
+    before_section_skip = "0pt"
+    before_entry_skip = "0pt"
+    before_entry_description_skip = "0pt"
 
     # Optional: sets paper size and margins. Possible values: a4 (default), us-letter
     paper_size = "a4"
 
     # Optional: sets the width of the right column of a cvEntry. If not set, values known to work well are used
-    #date_width = "3.6cm"
+    date_width = "4.2cm"
 
     [layout.fonts]
-        regular_fonts = ["Source Sans Pro", "Source Sans 3"]
+        regular_fonts = ["Source Sans 3"]
         header_font = "Roboto"
 
     [layout.header]
@@ -83,7 +83,8 @@ language = "it"
     letter_footer = "Cover letter"
 
 [lang.it]
-    header_quote = "Studente del corso di laurea in Informatica presso l'Università di Padova, appassionato in particolare allo sviluppo software backend.\n Da quando mi sono interessato all'informatica sono sempre stato incuriosito dalla logica di funzionamento dei software che utilizzavo, per questo cerco spesso di approfondire gli argomenti che riguardano questo settore, sia nell'ambiente accademico che nel tempo libero."
+    header_quote = """Studente del corso di laurea in Informatica presso l'Università di Padova, appassionato in particolare allo sviluppo software backend.
+Da quando mi sono interessato all'informatica sono sempre stato incuriosito dalla logica di funzionamento dei software che utilizzavo, per questo cerco spesso di approfondire gli argomenti che riguardano questo settore, sia nell'ambiente accademico che nel tempo libero."""
     cv_footer = "Curriculum vitae"
     letter_footer = "Lettera di presentazione"
 

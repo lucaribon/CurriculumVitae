@@ -7,14 +7,21 @@
 
 #cvSection("Esperienze di lavoro")
 
-// #cvEntry(
-//   title: [Fattorino],
-//   society: [Alba Chiara SNC],
-//   logo: image("../src/logos/crazy-pizza_logo.jpg"),
-//   date: [2023 - Presente],
-//   location: [Santa Maria di Sala (VE), Italia],
-//   description: list(),
-// )
+#cvEntry(
+  title: [Fattorino],
+  society: [Alba Chiara SNC],
+  logo: image("../src/logos/crazy-pizza_logo.jpg"),
+  date: [2023 - Presente],
+  location: [Santa Maria di Sala (VE), Italia],
+  description: 
+  [
+    Mansioni:
+    #list(
+      [Consegna puntuale degli alimenti prodotti dall'azienda, anche in periodi ad alta richiesta],
+      [Chiusura contabile a fine turno]
+    )
+  ]
+)
 
 #cvEntry(
   title: [IT Support and Customer Assistant],
@@ -22,9 +29,12 @@
   logo: image("../src/logos/srl-electrics_logo.png"),
   date: [Agosto 2021 - Settembre 2021],
   location: [Belfast, Regno Unito],
-  description: list(
+  description:
+  [
+  Mansioni:
+  #list(
     [Assistenza clienti e supporto tecnico per i prodotti venduti dall'azienda],
     [Gestione dei prodotti e del magazzino],
-  ),
+  )],
   // tags: ("Tag d'esempio qui", "Dataiku", "Snowflake", "SparkSQL"),
 )

@@ -4,7 +4,6 @@
 #let cvSection = cvSection.with(metadata: metadata)
 #let cvHonor = cvHonor.with(metadata: metadata)
 
-
 #cvSection("Certificazioni")
 
 #cvHonor(
@@ -17,4 +16,10 @@
   date: [2021],
   title: [NDG Linux Essentials],
   issuer: [NDG through Cisco Networking Academy],
+)
+
+#cvHonor(
+  date: [2023],
+  title: [MATLAB Onramp],
+  issuer: [MathWorks],
 )

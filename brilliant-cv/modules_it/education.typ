@@ -15,7 +15,7 @@
   location: [Padova (PD), Italia],
   logo: image("../src/logos/unipd_logo.png"),
   description: list(
-    [Corsi opzionali: *Metodi e tecnologie per lo sviluppo software* #hBar() *Paradigmi di programmazione* #hBar() *Cybersecurity: Principles AND Practice* #hBar() *Introduzione all'apprendimento automatico*],
+    [Corsi opzionali superati: Paradigmi di programmazione #hBar() Cybersecurity: Principles and Practice #hBar() Introduzione all'apprendimento automatico #hBar() Metodi e tecnologie per lo sviluppo software],
   ),
 )
 
@@ -26,7 +26,7 @@
   location: [Mirano(VE), Italia],
   logo: image("../src/logos/levi_logo.png"),
   description: list(
-    [Partecipazione al programma Erasmus+ in Irlanda del Nord nel 2021],
+    [Partecipazione al programma Erasmus+ nel 2021, con destinazione Belfast, Regno Unito],
     [Voto di maturità: 94/100],
   ),
 )

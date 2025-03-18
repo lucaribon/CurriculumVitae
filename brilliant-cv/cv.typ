@@ -9,13 +9,15 @@
     }
   }
 }
+
+#set par(first-line-indent: 0cm)
+
 #set list(indent: 0.4cm)
-
-
 #show: cv.with(
   metadata,
   profilePhoto: image("./src/avatar.png"),
 )
+
 #importModules((
   "education",
   "professional",
@@ -32,7 +34,7 @@
     align(
       center,
       text(size: 8pt)[
-        _Autorizzo il trattamento dei dati personali contenuti nel mio curriculum vitae in base al D.Lgs. 196/2003 e al Regolamento UE 2016/679_.
+        Autorizzo il trattamento dei dati personali contenuti nel mio curriculum vitae in base al D.Lgs. 196/2003 e al Regolamento UE 2016/679.
       ],
     ),
   ),
