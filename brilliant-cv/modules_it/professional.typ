@@ -17,7 +17,7 @@
   [
     Mansioni:
     #list(
-      [Consegna puntuale degli alimenti prodotti dall'azienda, anche in periodi ad alta richiesta],
+      [Consegna puntuale degli alimenti prodotti dall'azienda],
       [Chiusura contabile a fine turno]
     )
   ]
@@ -34,7 +34,7 @@
   Mansioni:
   #list(
     [Assistenza clienti e supporto tecnico per i prodotti venduti dall'azienda],
-    [Gestione dei prodotti e del magazzino],
+    [Gestione logistica dei prodotti e del magazzino],
   )],
   // tags: ("Tag d'esempio qui", "Dataiku", "Snowflake", "SparkSQL"),
 )

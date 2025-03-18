@@ -50,7 +50,7 @@
   description: [
     Progetto di gruppo svolto per il corso di Tecnologie Web dell'Università degli Studi di Padova; il prodotto finale consiste in una webapp che permette agli utenti di condividere e scambiare libri tra loro; è stata integrata anche una funzione di matching tra libri offerti e libri desiderati dagli utenti per facilitare la ricerca degli utenti con cui svolgere gli scambi. \
     L'interfaccia rispetta le linee guida WCAG 2.1 al livello AAA. \
-    Candidato al concorso Accattivante Accessibile tenuto dall'Università degli Studi di Padova.
+    Candidato al concorso #link("https://web.math.unipd.it/CAA/")[#underline[Accattivante Accessibile]] tenuto dall'Università degli Studi di Padova.
 
     Contributi personali al progetto:
     #list(
