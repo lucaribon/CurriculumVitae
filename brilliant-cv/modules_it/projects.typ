@@ -23,6 +23,7 @@
       [Progettazione e implementazione del Proof of Concept #hBar() *Python*, *FastAPI*, *MongoDB*],
       [Analisi per la scelta dello stack tecnologico #hBar() *Python*, *MongoDB*, *PostgreSQL*],
       [Miglioramenti alla pagina web del progetto #hBar() *HTML*, *CSS*, *JavaScript*],
+      [Distribuzione #hBar() *Docker*]
     )
   ],
 )
@@ -50,11 +51,11 @@
   description: [
     Progetto di gruppo svolto per il corso di Tecnologie Web dell'Università degli Studi di Padova; il prodotto finale consiste in una webapp che permette agli utenti di condividere e scambiare libri tra loro; è stata integrata anche una funzione di matching tra libri offerti e libri desiderati dagli utenti per facilitare la ricerca degli utenti con cui svolgere gli scambi. \
     L'interfaccia rispetta le linee guida WCAG 2.1 al livello AAA. \
-    Candidato al concorso #link("https://web.math.unipd.it/CAA/")[#underline[Accattivante Accessibile]] tenuto dall'Università degli Studi di Padova.
+    Il progetto è arrivato al *primo posto* nel concorso #link("https://web.math.unipd.it/CAA/")[#underline[*Accattivante Accessibile*]] tenuto dall'Università degli Studi di Padova.
 
     Contributi personali al progetto:
     #list(
-    [Progettazione del database e implementazione delle relative API #hBar() *MySQL*, *PHP*],
+    [Progettazione del database e implementazione delle relative API #hBar() *MariaDB*, *PHP*],
     [Implementazione del backend #hBar() *PHP*],
     [Implementazione della logica del frontend #hBar() *JavaScript*],
     [Implementazione di accorgimenti per l'accessibilità #hBar() *HTML*, *CSS*, *JavaScript*],
